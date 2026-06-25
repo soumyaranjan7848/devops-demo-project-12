@@ -5,8 +5,8 @@
 replicaCount: 2
 
 image:
-  githubID: soumyaranjan7848
-  repository: devops-demo-project-12
+  githubID: soumyahub54
+  repository: soumyahub54/demo-java-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: V1.1
